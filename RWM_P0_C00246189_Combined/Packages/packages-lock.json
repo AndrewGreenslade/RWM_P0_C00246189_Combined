@@ -175,7 +175,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
-      "version": "1.1.31",
+      "version": "1.1.33",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -224,6 +224,20 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "ie.setu.fact": {
+      "version": "https://github.com/DawidJerdonek/RWM_P0_C00247646.git?path=/Packages/ie.setu.fact#v0.1.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "247f216f2d206269c74b40e0f67bce503ad854e8"
+    },
+    "ie.setu.xor21filter": {
+      "version": "https://github.com/AndrewGreenslade/RWM_P0_C00246189.git?path=RWM_P0_C00246189/Packages/ie.setu.xor21filter#v0.1.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ba563797f1f29b0843f6853194a92fb1a527a631"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
